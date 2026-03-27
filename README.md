@@ -78,7 +78,7 @@ The system uses **recursive validation functions**, which means:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/JromeroRodriguez/Historia-de-usuario-M1S1.git
 ```
 
 ### 2. Navigate to the project folder
