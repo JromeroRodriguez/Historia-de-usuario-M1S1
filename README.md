@@ -130,14 +130,9 @@ Producto: arroz | Precio: $2000.00 | Cantidad: 3 | Total: $6000.00
 
 Below is the system flowchart:
 
-👉 *(Paste your PNG diagram here)*
+<img width="544" height="773" alt="CAPTURE" src="https://github.com/user-attachments/assets/25710785-a1b3-45ba-b84e-4545b6d06f11" />
 
-Example:
 
-```
-<img width="544" height="773" alt="CAPTURE" src="https://github.com/user-attachments/assets/0d25e188-a06a-49b1-bc1d-6b148a75fc63" />
-
-```
 
 ---
 
