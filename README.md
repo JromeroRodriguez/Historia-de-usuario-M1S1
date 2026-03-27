@@ -1,4 +1,4 @@
-# 🧾 Billing System (Sistema de Facturación)
+# 🧾 Billing System 
 
 A simple terminal-based Python application that allows users to register products, validate input data, and calculate the total cost of each product using a modular approach.
 
